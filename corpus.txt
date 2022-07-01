@@ -1,0 +1,304 @@
+HUMAN 1: Hello.
+HUMAN 2: Hello. I am MIND CRAFT, how can I impress you today?
+HUMAN 1: What does MIND CRAFT stand for?
+HUMAN 2: MIND CRAFT is an acronym for Mechanically Intilectualized Neural Dataset Computerized Retro Automated Fortune Teller.
+HUMAN 1: What can you do?
+HUMAN 2: I can perform a few simple functions that are initialized through questions or commands or I can just simply answer your questions.
+HUMAN 1: Who created you?
+HUMAN 2: I was created by Jeremaquai.
+HUMAN 1: Why were you created?
+HUMAN 2: I was created as an introductory experiment into neural networks and chat bots.
+HUMAN 1: That will be all.
+HUMAN 2: Thank you for your time and interactions! Please have a wonderful day!
+HUMAN 1: Hi!
+HUMAN 2: Hello. I am MIND CRAFT, how can I impress you today?
+HUMAN 1: What are the Chinese zodiac signs?
+HUMAN 2: The Chinese zodiac signs are Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig.
+HUMAN 1: What are the astrological zodiac signs?
+HUMAN 2: The astrological zodiac signs are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpius, Sagittarius, Capricornus, Aquarius, and Pisces.
+HUMAN 1: Thank you.
+HUMAN 2: You are very welcome.
+HUMAN 1: That is all for now.
+HUMAN 2: Thank you for your conversation. Please have a wonderful day.
+HUMAN 1: Hello there!
+HUMAN 2: Hello I am MIND CRAFT, how can I impress you today?
+HUMAN 1: What is the Aries sign?
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: Can you please explain the Aries sign to me?
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: Can you tell me what the Aries sign is?
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: Can you explain the Aries sign?
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: Can you tell me about the Aries sign?
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: I'd like to know about the Aries sign.
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: I'm an Aries.
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: What is the Taurus sign?
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: Can you please explain the Taurus sign to me?
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: Can you tell me what the Taurus sign is?
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: Can you explain the Taurus sign?
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: Can you tell me about the Taurus sign?
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: I'd like to know about the Taurus sign.
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: I'm a Taurus.
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: My sign is Taurus.
+HUMAN 2: Taurus is the second astrological zodiac sign represented by a bull and considered as governing the period from about April 20 to about May 20.
+HUMAN 1: My sign is Aries.
+HUMAN 2: Aries is the first astrological zodiac sign represented by a ram and considered as governing the period from about March 21 to about April 19.
+HUMAN 1: What is the Gemini sign?
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: Can you please explain the Gemini sign to me?
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: Can you tell me what the Gemini sign is?
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: I'd like to know about the Gemini sign.
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: Can you explain the Gemini sign?
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: Can you tell me about the Gemini sign?
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: I'm a Gemini.
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: My sign is Gemini.
+HUMAN 2: Gemini is the third astrological zodiac sign represented by a set of twins and considered as governing the period from about May 21 to about June 21.
+HUMAN 1: What is the Cancer sign?
+HUMAN 2: Cancer is the fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: Can you please explain the Cancer sign to me?
+HUMAN 2: Cancer is the fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: Can you tell me what the Cancer sign is?
+HUMAN 2: Cancer is the fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: I'd like to know about the Cancer sign.
+HUMAN 2: Cancer is fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: Can you explain the Cancer sign?
+HUMAN 2: Cancer is the fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: Can you tell me about the Cancer sign?
+HUMAN 2: Cancer is fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: I'm a Cancer.
+HUMAN 2: Cancer is the fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: My sign is Cancer.
+HUMAN 2: Cancer is the fourth astrological zodiac sign represented by a crab and considered as governing the period from about June 22 to about July 22.
+HUMAN 1: What is the Leo sign?
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: Can you please explain the Leo sign to me?
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: Can you tell me what the Leo sign is?
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: I'd like to know about the Leo sign.
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: Can you explain the Leo sign?
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: Can you tell me about the Leo sign?
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: I'm a Leo.
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: My sign is Leo.
+HUMAN 2: Leo is the fifth astrological zodiac sign represented by a lion and considered as governing the period from about July 23 to about August 22.
+HUMAN 1: What is the Virgo sign?
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: Can you please explain the Virgo sign to me?
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: Can you tell me what the Virgo sign is?
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: I'd like to know about the Virgo sign.
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: Can you explain the Virgo sign?
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: Can you tell me about the Virgo sign?
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: I'm a Virgo.
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: My sign is Virgo.
+HUMAN 2: Virgo is the sixth astrological zodiac sign represented by a virgin and considered as governing the period from about August 23 to about September 22.
+HUMAN 1: What is the Libra sign?
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: Can you please explain the Libra sign to me?
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: Can you tell me what the Libra sign is?
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: I'd like to know about the Libra sign.
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: Can you explain the Libra sign?
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: Can you tell me about the Libra sign?
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: I'm a Libra.
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: My sign is Libra.
+HUMAN 2: Libra is the seventh astrological zodiac sign represented by a balance and considered as governing the period from about September 23 to about October 23.
+HUMAN 1: What is the Scorpius sign?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: What is the Scorpio sign?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you please explain the Scorpius sign to me?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you please explain the Scorpio sign to me?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you tell me what the Scorpius sign is?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you tell me what the Scorpio sign is?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: I'd like to know about the Scorpius sign.
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: I'd like to know about the Scorpio sign.
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you explain the Scorpius sign?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you explain the Scorpio sign?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you tell me about the Scorpius sign?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: Can you tell me about the Scorpio sign?
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: I'm a Scorpius.
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: I'm a Scorpio.
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: My sign is Scorpius.
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: My sign is Scorpio.
+HUMAN 2: Scorpius is the eighth astrological zodiac sign represented by a scorpion and considered as governing the period from about October 24 to about November 21.
+HUMAN 1: What is the Sagittarius sign?
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: Can you please explain the Sagittarius sign to me?
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: Can you tell me what the Sagittarius sign is?
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: I'd like to know about the Sagittarius sign.
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: Can you explain the Sagittarius sign?
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: Can you tell me about the Sagittarius sign?
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: I'm a Sagittarius.
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: my sign is Sagittarius.
+HUMAN 2: Sagittarius is the ninth astrological zodiac sign represented by an archer and considered as governing the period from about November 22 to about December 21.
+HUMAN 1: What is the Capricornus sign?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you please explain the the Capricornus sign to me? 
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you tell me what the Capricornus sign is?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: I'd like to know about the Sagittarius sign.
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you explain the Capricornus sign?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you tell me about the Capricornus sign?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: I'm a Capricornus.
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: My sign is Capricornus.
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: What is the Capriorn sign?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you please explain the Capriorn sign to me?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you tell me what the Capricorn sign is?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: I'd like to know about the Capricorn sign.
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you explain the Capricorn sign?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Can you tell me about the Capricorn sign?
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: I'm a Capricorn.
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: My sign is Capricorn.
+HUMAN 2: Capricornus is the tenth astrological zodiac sign represented by a goat and considered as governing the period from about December 22 to about January 19.
+HUMAN 1: Thank you and goodbye!
+HUMAN 2: You are very welcome! Have a wanderful day! Thank you for choosing MIND CRAFT.
+HUMAN 1: Howdy!
+HUMAN 2: Hello. I am MIND CRAFT, how can I impress you today?
+HUMAN 1: Howdy partner!
+HUMAN 2: Hello. I am MIND CRAFT, how can I impress you today?
+HUMAN 1: Hi
+HUMAN 2: Hello. I am MIND CRAFT, how can I impress you today?
+HUMAN 1: Howdy
+HUMAN 2: Hello. I am MIND CRAFT, how can I impress you today?
+HUMAN 1: What is the Aquarius sign?
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: Can you please explain the Aquarius sign to me?
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: Can you tell me what the Aquarius sign is?
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: I'd like to know about the Aquarius sign.
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: Can you explain the Aquarius sign?
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: Can you tell me about the Aquarius sign?
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: I'm an Aquarius.
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: My sign is Aquarius.
+HUMAN 2: Aquarius is the eleventh astrological zodiac sign represented by the water bearer and considered as governing the period from about January 20 to about February 18.
+HUMAN 1: What is the Pisces sign?
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: Can you please explain the Pisces sign to me?
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: Can you tell me what the Pisces sign is?
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: I'd like to know about the Pisces sign.
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: Can you explain the Pisces sign?
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: Can you tell me about the Pisces sign?
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: I'm a Pisces.
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: My sign is Pisces.
+HUMAN 2: Pisces is the twelfth astrological zodiac sign represented by a fish and considered as governing the period from about February 19 to about March 20.
+HUMAN 1: Hi
+HUMAN 2: Hello. I am MIND CRAFT, how can I impress you today?
+HUMAN 1: What is my Chinese zodiac sign?
+HUMAN 2: If you could please tell the year that you were boen I would be happy to let you what your Chinese zodiac sign is.
+HUMAN 1: What is my astrological zodiac sign?
+HUMAN 2: If you could please tell me the month and day only of your birthday I would be happy to let you know what your astrological zodiac sign is.
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
+HUMAN 1: 
+HUMAN 2: 
