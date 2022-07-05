@@ -1,6 +1,6 @@
 from responses import fortunes, going_to_die_responses, why_die_responses, feelings_responses, hello_responses, help_response, chinese_zodiac,\
     chinese_zodiac_response, your_feelings_responses, astrological_zodiac, astrological_zodiac_response, mind_craft_lucky_number_responses, \
-    automated_responses 
+    automated_responses, zodiac_sign_personality_profile_dict, july_2022_horoscopes_dic, yearly_2022_horoscope_dic 
 import random
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -8,6 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from preprocessing import preprocess_text 
 
 exit_commands = ("quit", "goodbye", "exit", "pause", "later", "see ya", "bye")
+zodiac_signs = ("aries", "taurus", "gemini", "cancer", "leo", "virgo", "libra", "scorpio", "sagittarius", "capricorn", "aquarius", "pisces")
 
 mind_craft_babble = {
     "get_fortune_intent": r"(\w*\s)*(a fortune|my fortune).?",
@@ -21,7 +22,9 @@ mind_craft_babble = {
     "get_your_feelings_intent": r"how\s(\w*\s)?i feel.{0,3}.?",
     "get_zodiac_sign_intent": r"my birthday is (\w*\s)*\d{1,2}.?",
     "get_mind_craft_lucky_number": r"(\w*\s)*(you\shave\sa|give\syou\sa|your|you\sneed\sa)\slucky\snumber.?(\w*.?)*",
-    "": r""
+    "get_sign_personality_profile_intent": r"(i'd)?(\w*\s)*personality profile\s(\w*.?\s)*",
+    "get_monthly_horoscope_intent": r"(i'd)?(\w*\s)*monthly horoscope.?(\w*\s)*\w*.?",
+    "get_yearly_horoscope_intent": r"(i'd)?(\w*\s)*yearly horoscope.?(\w*\s)*\w*.?"
     
 }
 
@@ -32,6 +35,7 @@ def make_exit(user_message):
             exit()
         
 def match_intent(reply):
+    reply = reply.lower()
     while not make_exit(reply):
         match_found = False
         for intent, regex_pattern in mind_craft_babble.items():
@@ -66,6 +70,15 @@ def match_intent(reply):
             elif found_match and intent == "get_mind_craft_lucky_number":
                 match_found = True
                 answer = get_mind_craft_lucky_number()
+            elif found_match and intent == "get_sign_personality_profile_intent":
+                match_found = True
+                answer = get_zodiac_sign_personality_profile(reply)
+            elif found_match and intent == "get_monthly_horoscope_intent":
+                match_found = True
+                answer = get_monthly_horoscope(reply)
+            elif found_match and intent == "get_yearly_horoscope_intent":
+                match_found = True
+                answer = get_yearly_horoscope(reply)
         if match_found == False:
             answer = match_reply(reply)
         return answer
@@ -148,3 +161,34 @@ def get_astrological_zodiac(msg):
             user_zodiac_sign = zodiac_sign
     return astrological_zodiac_response.format(birthday=user_birthday.title(), zodiac=user_zodiac_sign) + "\n"
 
+def check_zodiac_sign(msg):
+    for sign in zodiac_signs:
+        if sign in msg:
+            return True
+
+def get_zodiac_sign_personality_profile(msg):
+    while not check_zodiac_sign(msg):
+        return "If you would like to get a personality profile for a sign you are going to need to include an astrological sign in your question or statement."
+    while check_zodiac_sign(msg):
+        for sign, profile in zodiac_sign_personality_profile_dict.items():
+            #print(sign)
+            if sign in msg:
+                return profile
+
+#print(get_zodiac_sign_profile("goop"))
+
+def get_monthly_horoscope(msg):
+    while not check_zodiac_sign(msg):
+        return "If you would like to get a horoscope for a sign you are going to need to include an astrological sign in your question or statement."
+    while check_zodiac_sign(msg):
+        for sign, horoscope in july_2022_horoscopes_dic.items():
+            if sign in msg:
+                return horoscope
+
+def get_yearly_horoscope(msg):
+    while not check_zodiac_sign(msg):
+        return "If you would like to get a horoscope for a sign you are going to need to include an astrological sign in your question or statement."
+    while check_zodiac_sign(msg):
+        for sign, horoscope in yearly_2022_horoscope_dic.items():
+            if sign in msg:
+                return horoscope

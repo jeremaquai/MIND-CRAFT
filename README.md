@@ -29,23 +29,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jeremaquai/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/jeremaquai/MIND-CRAFT">
+    <img src="images/MIND_CRAFT_screenshot.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">MIND CRAFT</h3>
 
   <p align="center">
-    project_description
+    At the current moment, this is just a small chat bot to play around and amuse yourself with.  This is my first attempt at a fully functional chat bot complete with a GUI. The concept is based on the coin operated Fortune Teller machines from my childhood with some of my own flare added into the mix.
     <br />
-    <a href="https://github.com/jeremaquai/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jeremaquai/MIND-CRAFT"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jeremaquai/repo_name">View Demo</a>
+    <a href="https://github.com/jeremaquai/MIND-CRAFT">View Demo</a>
     ·
-    <a href="https://github.com/jeremaquai/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/jeremaquai/MIND-CRAFT/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jeremaquai/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/jeremaquai/MIND-CRAFT/issues">Request Feature</a>
   </p>
 </div>
 
@@ -84,7 +84,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `jeremaquai`, `repo_name`, `twitter_handle`, `jeremiah-sparks-0ba36a239`, `email_client`, `email`, `MIND CRAFT`, `project_description`
+# MIND CRAFT
+
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,14 +96,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://python.org/)
+* [Anaconda](https://anaconda.com/)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,32 +107,37 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
+* python 3.9.12
+* anaconda library
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Check that you have python 3.9.12 or higher installed. Copy and paste the following command to the terminal.
+  ```sh
+  python --version
+  ```
+2. Download Python 3.9.12 and install following the instructions for your os at the following link if not already installed.
+
+    [Python.org](https://python.org)
+
+3. Download and install the latest Anaconda distribution if its not already installed on your computer from the following link.
+
+    [Anaconda.com](https://anaconda.com)
+
+4. Clone the repo
    ```sh
-   git clone https://github.com/jeremaquai/repo_name.git
+   git clone https://github.com/jeremaquai/MIND-CRAFT.git
    ```
-3. Install NPM packages
+5. Open a new terminal at the file location of your repo clone and enter the following command to enjoy THE MIND CRAFT chat bot
    ```sh
-   npm install
+   python3 chat_app.py
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,23 +146,29 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+
+MIND CRAFT is a fortune teller, so obviously you can ask it for a fortune and it will give you one. You may also ask for a lucky number and MIND CRAFT will give you a randomly generated number as your lucky numner. 
+
+If you tell MIND CRAFT the year that you were born then it will respond with the Chinese Zodiac sign for the year that you were born in. If you tell MIND CRAFT your birthday in the Month Day format, it will reply to you with your astrological zodiac sign.
+
+Once you have learned what your astrologica zodiac sign is, you can ask MIND CRAFT for either a monthy or yearly horoscope for your sign. MIND CRAFT was created and published in early July 2022 so these responses are hard coded into the bot and therefore may become dated without constant updating or a function that can keep the bot outomatically updated (a function that I currently lack the knowledge to write). 
+
+As well as being able to get a horoscope for your astrological zodiac sign, you can ask MIND CRAFT for a personality profile of your sign to see how accurate it is.
+
+
+All horoscopes and personality profiles were sourced from [Allure.com](Allure.com)
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
 
-See the [open issues](https://github.com/jeremaquai/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jeremaquai/MIND-CRAFT/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -194,37 +204,32 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Jeremaquai - jeremaquai@gmail.com.com
 
-Project Link: [https://github.com/jeremaquai/repo_name](https://github.com/jeremaquai/repo_name)
+Project Link: [https://github.com/jeremaquai/MIND-CRAFT](https://github.com/jeremaquai/MIND-CRAFT)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
 
-* []()
-* []()
-* []()
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/jeremaquai/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/jeremaquai/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/jeremaquai/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/jeremaquai/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/jeremaquai/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/jeremaquai/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/jeremaquai/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/jeremaquai/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/jeremaquai/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/jeremaquai/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/jeremaquai/MIND-CRAFT.svg?style=for-the-badge
+[contributors-url]: https://github.com/jeremaquai/MIND-CRAFT/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/jeremaquai/MIND-CRAFT.svg?style=for-the-badge
+[forks-url]: https://github.com/jeremaquai/MIND-CRAFT/network/members
+[stars-shield]: https://img.shields.io/github/stars/jeremaquai/MIND-CRAFT.svg?style=for-the-badge
+[stars-url]: https://github.com/jeremaquai/MIND-CRAFT/stargazers
+[issues-shield]: https://img.shields.io/github/issues/jeremaquai/MIND-CRAFT.svg?style=for-the-badge
+[issues-url]: https://github.com/jeremaquai/MIND-CRAFT/issues
+[license-shield]: https://img.shields.io/github/license/jeremaquai/MIND-CRAFT.svg?style=for-the-badge
+[license-url]: https://github.com/jeremaquai/MIND-CRAFT/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jeremiah-sparks-0ba36a239
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/MIND_CRAFT_screenshot.png

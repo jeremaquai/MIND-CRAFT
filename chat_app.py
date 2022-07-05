@@ -45,7 +45,7 @@ class ChatApplication:
         # scroll bar
 
         scrollbar = Scrollbar(self.text_widget,)
-        scrollbar.place(relheight=1, relx=0.974)
+        scrollbar.place(relheight=1, relx=1, relwidth=0.6)
         scrollbar.configure(command=self.text_widget.yview)
 
         # bottom label
